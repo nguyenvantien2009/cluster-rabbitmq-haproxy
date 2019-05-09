@@ -1,4 +1,4 @@
-# RabbitMQ cluster với HAProxy và DockerCompose
+# RabbitMQ cluster với HAProxy và Docker Compose
 
 Creates a 3 node RabbitMQ cluster with a HAProxy acting as a load balancer.
 
