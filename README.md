@@ -1,5 +1,9 @@
 # RabbitMQ cluster with HAProxy and Docker Compose
 
+Requirements:
+1. Create `.env` from `example.env` file. Then change config account use for login.
+2. 
+
 Creates a 3 node RabbitMQ cluster with a HAProxy acting as a load balancer.
 
 You need to build the HAProxy image first, just run:
